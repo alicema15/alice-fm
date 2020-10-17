@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/alice-fm/static/css/main.4ecc19ae.chunk.css",
-    "main.js": "/alice-fm/static/js/main.49296590.chunk.js",
-    "main.js.map": "/alice-fm/static/js/main.49296590.chunk.js.map",
+    "main.js": "/alice-fm/static/js/main.cb256c7f.chunk.js",
+    "main.js.map": "/alice-fm/static/js/main.cb256c7f.chunk.js.map",
     "runtime-main.js": "/alice-fm/static/js/runtime-main.c8e796b8.js",
     "runtime-main.js.map": "/alice-fm/static/js/runtime-main.c8e796b8.js.map",
     "static/js/2.c1f31237.chunk.js": "/alice-fm/static/js/2.c1f31237.chunk.js",
     "static/js/2.c1f31237.chunk.js.map": "/alice-fm/static/js/2.c1f31237.chunk.js.map",
     "index.html": "/alice-fm/index.html",
-    "precache-manifest.98faeeee40cddab75490d89381d9af4f.js": "/alice-fm/precache-manifest.98faeeee40cddab75490d89381d9af4f.js",
+    "precache-manifest.c4784b81f8465b9c4580c95aa0bdce58.js": "/alice-fm/precache-manifest.c4784b81f8465b9c4580c95aa0bdce58.js",
     "service-worker.js": "/alice-fm/service-worker.js",
     "static/css/main.4ecc19ae.chunk.css.map": "/alice-fm/static/css/main.4ecc19ae.chunk.css.map",
     "static/js/2.c1f31237.chunk.js.LICENSE.txt": "/alice-fm/static/js/2.c1f31237.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c8e796b8.js",
     "static/js/2.c1f31237.chunk.js",
     "static/css/main.4ecc19ae.chunk.css",
-    "static/js/main.49296590.chunk.js"
+    "static/js/main.cb256c7f.chunk.js"
   ]
 }

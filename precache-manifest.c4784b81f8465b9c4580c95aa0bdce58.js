@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1912c08768ad16872fe7383ac7eca0e1",
+    "revision": "73334c65d438036c9ae0b81cf173c26e",
     "url": "/alice-fm/index.html"
   },
   {
-    "revision": "cef04dbf7a45f1da371d",
+    "revision": "951222165003a3ca509f",
     "url": "/alice-fm/static/css/main.4ecc19ae.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alice-fm/static/js/2.c1f31237.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cef04dbf7a45f1da371d",
-    "url": "/alice-fm/static/js/main.49296590.chunk.js"
+    "revision": "951222165003a3ca509f",
+    "url": "/alice-fm/static/js/main.cb256c7f.chunk.js"
   },
   {
     "revision": "577a47b8487a2a1410e9",
