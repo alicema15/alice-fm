@@ -2,7 +2,7 @@
   "name": "alice-fm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alicema15.github.io/alice-fm",
+  "homepage": "https://alice.fm",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
